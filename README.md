@@ -34,8 +34,7 @@ Then scan the qrcode in mobile xxpo-app to run app locally.
 
 ## 📸 Screenshots
 
-![WhatsApp Image 2023-05-26 at 23 16 45 (1)](https://github.com/suryansh9315/react-native-jobs/assets/71925882/b2ba3e8f-4e34-404d-9846-c4f1f18d24a4)
-![WhatsApp Image 2023-05-26 at 23 16 45](https://github.com/suryansh9315/react-native-jobs/assets/71925882/4718c7e7-6a00-40bb-b1db-92b7bab2b7b9)
+![WhatsApp Image 2023-05-26 at 23 16 45 (1)](https://github.com/suryansh9315/react-native-jobs/assets/71925882/b2ba3e8f-4e34-404d-9846-c4f1f18d24a4)![WhatsApp Image 2023-05-26 at 23 16 45](https://github.com/suryansh9315/react-native-jobs/assets/71925882/4718c7e7-6a00-40bb-b1db-92b7bab2b7b9)
 ![WhatsApp Image 2023-05-26 at 23 16 48](https://github.com/suryansh9315/react-native-jobs/assets/71925882/e6ec6431-1128-44c8-adda-d98139c360a0)
 
 
