@@ -25,5 +25,9 @@ JobSeeker is built on the reliable and versatile React Native framework, ensurin
 ## 🚀 How to use
 
 ```sh
-npx create-expo-app -e with-router
+git clone https://github.com/suryansh9315/react-native-jobs.git
+cd react-native-jobs
+npm install
+npm start
 ```
+Then scan the qrcode in mobile xxpo-app to run app locally.
